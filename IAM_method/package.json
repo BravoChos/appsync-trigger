@@ -1,0 +1,18 @@
+{
+  "name": "appsync-trigger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Song Cho",
+  "license": "ISC",
+  "dependencies": {
+    "aws-appsync": "^2.0.1",
+    "aws-appsync-react": "^2.0.1",
+    "aws-sdk": "^2.607.0",
+    "graphql-tag": "^2.10.3",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
