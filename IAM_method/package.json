@@ -11,7 +11,7 @@
   "dependencies": {
     "aws-appsync": "^2.0.1",
     "aws-appsync-react": "^2.0.1",
-    "aws-sdk": "^2.607.0",
+    "aws-sdk": "^2.814.0",
     "graphql-tag": "^2.10.3",
     "isomorphic-fetch": "^2.2.1"
   }
